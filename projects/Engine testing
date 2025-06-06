@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Spark-Ignition Engine Testing</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <header>
+    <h1>Spark-Ignition Engine Testing</h1>
+    <nav><a href="../index.html">← Back to Home</a></nav>
+  </header>
+  <section>
+    <h2>Objective</h2>
+    <p>To study the effect of spark-timing on cylinder pressure and engine performance.</p>
+
+    <h2>Procedure</h2>
+    <p>Engine testing was done on the Ford Sigma SI engine at constant speed and varying spark angles across different dynamometer loads. 
+    Test data was analysed using MATLAB to observe engine response and performance metrics.</p>
+
+    <h2>Results</h2>
+    <p>This project deepened my understanding of IC engines and hands-on testing techniques used to evaluate performance characteristics.</p>
+  </section>
+  <footer>
+    <p>Contact: rohanrao1050@gmail.com | +44 07771120101 | <a href="https://linkedin.com/in/rohan-rao-1504" target="_blank">LinkedIn</a></p>
+  </footer>
+</body>
+</html>
